@@ -1,0 +1,20 @@
+<div class="team" data-name="Los Angeles Lakers" style="background-color: #552583;">
+    <img src="https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.jpg" alt="Lakers Logo">
+    <p>Los Angeles Lakers</p>
+</div>
+<div class="team" data-name="Golden State Warriors" style="background-color: #006BB6;">
+    <img src="https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.jpg" alt="Warriors Logo">
+    <p>Golden State Warriors</p>
+</div>
+<div class="team" data-name="Chicago Bulls" style="background-color: #CE1141;">
+    <img src="https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.jpg" alt="Bulls Logo">
+    <p>Chicago Bulls</p>
+</div>
+<div class="team" data-name="Miami Heat" style="background-color: #98002E;">
+    <img src="https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.jpg" alt="Heat Logo">
+    <p>Miami Heat</p>
+</div>
+<div class="team" data-name="Boston Celtics" style="background-color: #007A33;">
+    <img src="https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.jpg" alt="Celtics Logo">
+    <p>Boston Celtics</p>
+</div>
